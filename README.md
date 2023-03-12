@@ -6,4 +6,4 @@ Developed a menu driven program to perform insert and delete operations in an im
 3. Clean code with proper sequence and descriptive names of functions and variables.
 4. Tested multiple times on different inputs to avoid any error due to edge cases.
 5. Divided the code into several blocks to identify errors and debug them easily.
-### Used NULL pointer to avoid dangling pointers (pointers with unassigned address variables) and avoided generating errors during program execution.
+Used NULL pointer to avoid dangling pointers (pointers with unassigned address variables) and avoided generating errors during program execution.
